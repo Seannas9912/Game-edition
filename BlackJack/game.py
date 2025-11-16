@@ -169,5 +169,5 @@ while True:
         break
     else:
         clear_screen()
-        play_game()
+        continue
 clear_screen()
